@@ -4,7 +4,7 @@ import csv
 
 base_url = 'https://yellotalk.co/yell/'
 
-# Define the range of numbers you want to scrape
+# Define the range of numbers of url
 start_number =   # Starting number
 end_number =    # End number (exclusive)
 
